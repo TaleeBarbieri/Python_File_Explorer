@@ -149,7 +149,7 @@ Once PyInstaller finishes, the `.exe` file will be found in the `dist` folder:
 ---
 
 
-## 📸 
+## 📸 Interface Preview  
 
 ![alt text](<media/Screenshot 2025-05-13 105352.png>) ![alt text](<media/Screenshot 2025-05-13 105437.png>) ![alt text](<media/Screenshot 2025-05-13 105457.png>) ![alt text](<media/Screenshot 2025-05-13 105519.png>) ![alt text](<media/Screenshot 2025-05-13 105539.png>)
 ---
